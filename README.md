@@ -4,7 +4,10 @@ F18_Simulator_OH_Mods
 
 Most of the files contained within are from OPEN HORNET
 
-I did not create the Files I Do Not Own the files I have made minor changes to fit my Sim, or to change them to Print or assemble better The files are the *.STL. 
+I did not create the Files 
+I Do Not Own the files 
+
+I have made minor changes to fit my cockpit, or to change them to Print or assemble better The files are the *.STL. 
 
 The original native files can be found on
 
